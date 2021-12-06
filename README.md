@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com pesquisa em síntese orgânica (Today I'm working with research in organic synthesis)
 - 🌱 Estudando programação (studying programming)
 - 💬 Contate-me pelo email (Contact me by email): thiagooizidoro@gmail.com
-- 😄 Pronouns: Ele (he)
+- 😄 Pronome (Pronouns): Ele (he)
 <div align="center">
   <a href="https://github.com/ThiagoIzidoro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoIzidoro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
