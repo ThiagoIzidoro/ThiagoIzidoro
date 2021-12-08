@@ -1,9 +1,9 @@
 ### Oi, eu sou Thiago Izidoro (Hi, I'm Thiago Izidoro) 👋
 
-- 🔭 Hoje trabalho com pesquisa em síntese orgânica (Today I'm working with research in organic synthesis)
-- 🌱 Estudando programação (studying programming)
-- 💬 Contate-me pelo email (Contact me by email): thiagooizidoro@gmail.com
-- 😄 Pronome (Pronouns): Ele (he)
+- 🔭 Today I'm working with research in organic synthesis (Hoje trabalho com pesquisa em síntese orgânica)
+- 🌱 studying programming (Estudando programação)
+- 💬 Contact me by email (Contate-me pelo email): thiagooizidoro@gmail.com
+- 😄 Pronouns (Pronome): He (Ele)
 <div align="center">
   <a href="https://github.com/ThiagoIzidoro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoIzidoro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
